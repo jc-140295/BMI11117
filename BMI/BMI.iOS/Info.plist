@@ -48,5 +48,7 @@
 	<string>LaunchScreen</string>
 	<key>UIStatusBarHidden</key>
 	<true/>
+	<key>MinimumOSVersion</key>
+	<string>10.1</string>
 </dict>
 </plist>
